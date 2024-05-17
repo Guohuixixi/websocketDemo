@@ -1,4 +1,4 @@
-module websocketDemo
+module Guohuixixi/websocketDemo
 
 go 1.20
 
